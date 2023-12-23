@@ -29,7 +29,7 @@ Hi there! 👋 I'm MD ASIF AFROJ, a passionate Flutter Developer based in Excell
 ## 📂 Featured Projects
 
 1. [Project Name](https://github.com/your-username/project-name) - Brief project description.
-2. [Project Name](https://github.com/your-username/project-name) - Brief project description.
+2. [Project Name]([https://github.com/your-username/project-name](https://github.com/AAShayon/CricketManagement)) - Brief project description.
 
 Feel free to explore my repositories for more projects and contributions!
 
