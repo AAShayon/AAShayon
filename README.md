@@ -18,7 +18,7 @@
 <p>Overview
 Passionate and results-driven Flutter developer with a strong background in mobile application development. I specialize in creating cross-platform applications that deliver a seamless user experience. My commitment to writing clean and maintainable code, coupled with a keen eye for UI/UX design, sets me apart as a versatile and reliable developer.
 
-Skills
+<h1>Skills</h1>
 Flutter: Proficient in building robust, scalable, and responsive cross-platform mobile applications using Flutter framework.
 
 Dart: Strong command over Dart programming language, the primary language for Flutter development.
