@@ -45,7 +45,18 @@ Learning and applying best practices in Flutter development under the guidance o
 Engaging in hands-on projects to gain practical experience in building cross-platform mobile applications..</p>
 
 <h1>Projects</h1>
+
+
+
 [Authentication App](https://github.com/AAShayon/authentication_app)
+
+
+
+
+
+
+
+
 
 <!-- <img align="right" alt="coding" width="400" src="https://cdn1.vectorstock.com/i/1000x1000/47/90/cartoon-programmer-writes-code-workspace-concept-vector-20874790.jpg](https://designtemlate.s3.us-west-1.wasabisys.com/tue-jan-10-2023-4-03-pm51985.webp"> -->
 
