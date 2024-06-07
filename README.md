@@ -91,8 +91,7 @@ Connect with me for discussions on Flutter development, project collaborations, 
 
 [E-commers App](https://github.com/AAShayon01/ecmrs_ui_cwt.git)
 
-[Business Manager
-your personal assistant ](https://github.com/AAShayon/Buisness-Manager)
+[Business Manager - Your Personal  Assistant  ](https://github.com/AAShayon/Buisness-Manager)
 
 
 
