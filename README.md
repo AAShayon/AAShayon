@@ -31,18 +31,8 @@ Testing: Implementing unit and widget testing to ensure the reliability and stab
 Platform Integration: Ability to integrate device-specific features, such as camera, location services, and push notifications.
 
 <h1>Experience</h1>
-ExcelItAi
 
-Position: Flutter Developer Trainee
-
-Joined Date: May 1, 2023
-
-Currently undergoing training as a Flutter Developer at ExcelItAi.
-Learning and applying best practices in Flutter development under the guidance of experienced mentors.
-Engaging in hands-on projects to gain practical experience in building cross-platform mobile applications..</p>
-
-
-ExcelItAi
+# Excel It Ai
 
 Position: Associate Flutter Developer
 
@@ -50,10 +40,10 @@ Position: Associate Flutter Developer
 Joined Date:September 1, 2023
 
 
-## Overview
+# Overview
 Proudly serving as an Associate Flutter Developer at ExcelItAi, where my journey began as a Flutter Developer Trainee. Thriving in a dynamic environment, I am dedicated to contributing innovative solutions and enhancing user experiences in the realm of cross-platform mobile application development.
 
-## Responsibilities
+# Responsibilities
 As an Associate Flutter Developer, I have embraced additional responsibilities to further excel in my role:
 
 - **Project Leadership:** Taking a more prominent role in project teams, providing technical leadership and contributing to the successful delivery of high-quality mobile applications.
@@ -73,9 +63,21 @@ My ongoing goal is to elevate the standard of excellence in Flutter development,
 
 Connect with me for discussions on Flutter development, project collaborations, or any related endeavors!
 
+# Excel It Ai
 
+Position: Flutter Developer Trainee
 
+Joined Date: May 1, 2023
 
+# Overview
+During my internship as a Flutter Developer Trainee at ExcelItAi, I gained foundational experience in Flutter development. I was introduced to best practices under the guidance of experienced mentors and participated in hands-on projects to build cross-platform mobile applications.
+
+# Responsibilities
+As a Flutter Developer Trainee, my key responsibilities included:
+
+Learning and Application: Learning and applying best practices in Flutter development through structured training and practical assignments.
+Project Participation: Engaging in hands-on projects to gain practical experience in building mobile applications.
+Mentorship: Receiving guidance and feedback from senior developers to improve my skills and understanding of Flutter development.
 
 
 <h1>Projects</h1>
