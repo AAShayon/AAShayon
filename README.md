@@ -75,9 +75,9 @@ During my internship as a Flutter Developer Trainee at ExcelItAi, I gained found
 # Responsibilities
 As a Flutter Developer Trainee, my key responsibilities included:
 
-Learning and Application: Learning and applying best practices in Flutter development through structured training and practical assignments.
-Project Participation: Engaging in hands-on projects to gain practical experience in building mobile applications.
-Mentorship: Receiving guidance and feedback from senior developers to improve my skills and understanding of Flutter development.
+- **Learning and Application:** Learning and applying best practices in Flutter development through structured training and practical assignments.
+- **Project Participation:** Engaging in hands-on projects to gain practical experience in building mobile applications.
+- **Mentorship:** Receiving guidance and feedback from senior developers to improve my skills and understanding of Flutter development.
 
 
 <h1>Projects</h1>
@@ -89,7 +89,7 @@ Mentorship: Receiving guidance and feedback from senior developers to improve my
 
 [Weather](https://github.com/AAShayon/weather.git)
 
-[Hisab App](https://github.com/AAShayon01/hisab.git)
+[scheduler](https://github.com/AAShayon/scheduler.git)
 
 [E-commers App](https://github.com/AAShayon01/ecmrs_ui_cwt.git)
 
