@@ -82,18 +82,13 @@ As a Flutter Developer Trainee, my key responsibilities included:
 
 <h1>Projects</h1>
 
-
-
-[Authentication App](https://github.com/AAShayon/authentication_app)
-
-
-[Weather](https://github.com/AAShayon/weather.git)
-
+[Business Manager - Your Personal  Assistant  ](https://github.com/AAShayon/Buisness-Manager)
 [scheduler](https://github.com/AAShayon/scheduler.git)
-
+[Weather](https://github.com/AAShayon/weather.git)
+[Authentication App](https://github.com/AAShayon/authentication_app)
 [E-commers App](https://github.com/AAShayon01/ecmrs_ui_cwt.git)
 
-[Business Manager - Your Personal  Assistant  ](https://github.com/AAShayon/Buisness-Manager)
+
 
 
 
