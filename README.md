@@ -1,129 +1,124 @@
 <h1 align="center">Hi 👋, I'm MD ASIF AFROJ SHAYON</h1>
-<h3 align="center">Flutter Developer</h3>
-<p>Overview
-Passionate and results-driven Flutter developer with a strong background in mobile application development. I specialize in creating cross-platform applications that deliver a seamless user experience. My commitment to writing clean and maintainable code, coupled with a keen eye for UI/UX design, sets me apart as a versatile and reliable developer.
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <imgsrc="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AAShayon&show_icons=true&locale=en&layout=compact" alt="MD ASIF AFROJ SHAYON" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AAShayon&show_icons=true&locale=en" alt="MD ASIF AFROJ SHAYON" /></p>
-
-
-<h1>Skills</h1>
-Flutter: Proficient in building robust, scalable, and responsive cross-platform mobile applications using Flutter framework.
-
-Dart: Strong command over Dart programming language, the primary language for Flutter development.
-
-UI/UX Design: Adept at creating visually appealing and intuitive user interfaces. Experience with Material Design principles.
-
-State Management: Expertise in implementing state management solutions, including Provider, Bloc, and Redux, to ensure efficient application performance.
-
-RESTful APIs: Skilled in integrating RESTful APIs to fetch and send data, ensuring seamless communication between the app and server.
-
-Firebase: Hands-on experience with Firebase for authentication, real-time databases, and cloud functions.
-
-Version Control: Proficient in using Git for version control, ensuring collaborative development and codebase integrity.
-
-Testing: Implementing unit and widget testing to ensure the reliability and stability of the application.
-
-Platform Integration: Ability to integrate device-specific features, such as camera, location services, and push notifications.
-
-<h1>Experience</h1>
-
-# Excel It Ai
-
-Position: Associate Flutter Developer
-
-
-Joined Date:September 1, 2023
-
-
-# Overview
-Proudly serving as an Associate Flutter Developer at ExcelItAi, where my journey began as a Flutter Developer Trainee. Thriving in a dynamic environment, I am dedicated to contributing innovative solutions and enhancing user experiences in the realm of cross-platform mobile application development.
-
-# Responsibilities
-As an Associate Flutter Developer, I have embraced additional responsibilities to further excel in my role:
-
-- **Project Leadership:** Taking a more prominent role in project teams, providing technical leadership and contributing to the successful delivery of high-quality mobile applications.
-
-- **Code Review and Collaboration:** Actively participating in code reviews, ensuring adherence to best practices, and collaborating with team members to maintain code quality and consistency.
-
-- **Mentoring:** Sharing my knowledge and experiences with newer team members, contributing to a collaborative learning environment, and assisting in the onboarding of new developers.
-
-- **Feature Development:** Leading the development of key features, leveraging my expertise to drive the implementation of robust and scalable solutions.
-
-- **Client Interaction:** Engaging directly with clients to gather requirements, provide updates on project progress, and address any technical queries or concerns.
-
-- **Continuous Learning:** Staying abreast of the latest trends and advancements in Flutter development, incorporating new technologies and methodologies into our projects to ensure cutting-edge solutions.
-
-## Goals
-My ongoing goal is to elevate the standard of excellence in Flutter development, foster a collaborative team environment, and contribute to the continued success of ExcelItAi. Excited about the challenges and opportunities that lie ahead!
-
-Connect with me for discussions on Flutter development, project collaborations, or any related endeavors!
-
-# Excel It Ai
-
-Position: Flutter Developer Trainee
-
-Joined Date: May 1, 2023
-
-# Overview
-During my internship as a Flutter Developer Trainee at ExcelItAi, I gained foundational experience in Flutter development. I was introduced to best practices under the guidance of experienced mentors and participated in hands-on projects to build cross-platform mobile applications.
-
-# Responsibilities
-As a Flutter Developer Trainee, my key responsibilities included:
-
-- **Learning and Application:** Learning and applying best practices in Flutter development through structured training and practical assignments.
-- **Project Participation:** Engaging in hands-on projects to gain practical experience in building mobile applications.
-- **Mentorship:** Receiving guidance and feedback from senior developers to improve my skills and understanding of Flutter development.
-
-
-<h1>Projects</h1>
-
-[Business Manager - Your Personal  Assistant  ](https://github.com/AAShayon/Buisness-Manager)
-
-[scheduler](https://github.com/AAShayon/scheduler.git)
-
-[Weather](https://github.com/AAShayon/weather.git)
-
-[Authentication App](https://github.com/AAShayon/authentication_app)
-
-[E-commers App](https://github.com/AAShayon01/ecmrs_ui_cwt.git)
-
-
-
-
-
-
-<h3>Live Projects</h3>
-
-[BPPSHOP](https://play.google.com/store/apps/details?id=com.excelitai.bppshopapp&hl=en_US&pli=1)
-
-[Parcel Star](https://play.google.com/store/apps/details?id=com.parcelstar.bd)
-
-[Parcel Star Rider](https://play.google.com/store/apps/details?id=com.parcelstar.rider&hl=en_US)
-
-
-
-
-
-
-
-<!-- <img align="right" alt="coding" width="400" src="https://cdn1.vectorstock.com/i/1000x1000/47/90/cartoon-programmer-writes-code-workspace-concept-vector-20874790.jpg](https://designtemlate.s3.us-west-1.wasabisys.com/tue-jan-10-2023-4-03-pm51985.webp"> -->
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AAShayon&label=Profile%20views&color=0e75b6&style=flat" alt="MD ASIF AFROJ SHAYON" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AAShayon" alt="MD ASIF AFROJ SHAYON" /></a> </p>
-
-- 💬 Ask me about **State Management,UI design,integration with APIs**
-
-- 📫 How to reach me **shayon.asif@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aashayon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MD ASIF AFROJ SHAYON" height="30" width="40" /></a>
+<h3 align="center">Flutter Developer | Passionate about Creating Seamless Mobile Experiences</h3>
+
+---
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=AAShayon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <a href="https://linkedin.com/in/aashayon" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    </a>
 </p>
 
+---
+
+### 👨‍💻 **About Me**
+
+<p align="left">
+    Passionate and results-driven Flutter developer with a strong background in mobile application development. I specialize in creating cross-platform applications that deliver a seamless user experience. My commitment to writing clean and maintainable code, coupled with a keen eye for UI/UX design, sets me apart as a versatile and reliable developer.
+</p>
+
+---
+
+### 🔧 **Languages and Tools**
+
+<p align="left">
+    <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+    <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+    <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
+    <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+    <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+    <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+    <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+    <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
+    <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
+</p>
+
+---
+
+### ⚡ **Skills**
+
+- **Flutter**: Proficient in building robust, scalable, and responsive cross-platform mobile applications using the Flutter framework.
+- **Dart**: Strong command over Dart programming language, the primary language for Flutter development.
+- **UI/UX Design**: Adept at creating visually appealing and intuitive user interfaces.
+- **State Management**: Expertise with Provider, Bloc, Redux for efficient app performance.
+- **RESTful APIs**: Skilled in integrating RESTful APIs for seamless app-server communication.
+- **Firebase**: Hands-on experience with Firebase for authentication, real-time databases, and cloud functions.
+- **Version Control**: Proficient in Git, ensuring collaborative development and codebase integrity.
+- **Testing**: Implementing unit and widget testing for reliability and stability.
+- **Platform Integration**: Integrating device-specific features, such as camera, location services, and push notifications.
+- **Legacy Project Support**: Maintaining and supporting legacy applications.
+- **SDK Upgrades**: Proficient in upgrading applications to the latest SDKs for enhanced performance.
+- **Problem Solving & Bug Fixing**: Strong troubleshooting skills for resolving issues in applications.
+
+---
+
+### 💼 **Experience**
+
+#### **Orange BD Ltd, Dhaka, Bangladesh**
+**Software Engineer**  
+*September 2024 - Present*  
+
+- Support legacy projects, ensuring they remain functional and addressing issues as they arise.
+- Independently handled assigned mobile application projects, following supervisor guidance to meet project requirements and maintain high code quality.
+- Upgrade applications to the latest SDKs for improved performance and compatibility.
+- Troubleshoot, debug, and resolve issues, ensuring smooth background service operation.
+- Engage in bug fixing and problem-solving, supporting both existing and new applications.
+
+#### **Excel It Ai, Dhaka, Bangladesh**  
+**Associate Flutter Developer**  
+*September 2023 - September 2024*
+
+- Independently handled assigned mobile application projects, following supervisor guidance to meet project requirements and maintain high code quality.
+- Conducted code reviews, ensuring best practices and code consistency.
+- Mentored junior developers, assisting in onboarding and knowledge sharing.
+- Developed key features, driving robust and scalable solutions.
+- Interacted with clients for requirement gathering and project updates.
+
+**Flutter Developer Trainee**  
+*May 2023 - September 2023*
+
+- Gained foundational experience in Flutter development, working under experienced mentors.
+- Engaged in hands-on projects, building cross-platform applications.
+- Participated in a structured training program, applying best practices in Flutter.
+
+---
+
+### 📂 **Projects**
+
+- [Business Manager - Your Personal Assistant](https://github.com/AAShayon/Buisness-Manager)
+- [Scheduler](https://github.com/AAShayon/scheduler.git)
+- [Weather](https://github.com/AAShayon/weather.git)
+- [Authentication App](https://github.com/AAShayon/authentication_app)
+- [E-commerce App](https://github.com/AAShayon01/ecmrs_ui_cwt.git)
+
+#### **Live Projects**
+- [OrangeBD eDirectory](https://play.google.com/store/apps/details?id=apps.orangebd.orangebdedirectory&hl=en&pli=1)
+- [LGD Sheba](https://play.google.com/store/apps/details?id=apps.orangebd.lgdsheba&hl=en)
+- [Kalbela: Bangla Newspaper](https://play.google.com/store/apps/details?id=apps.newspaper.kalbela&hl=en)
+- [BPPSHOP](https://play.google.com/store/apps/details?id=com.excelitai.bppshopapp&hl=en_US&pli=1)
+- [Parcel Star](https://play.google.com/store/apps/details?id=com.parcelstar.bd)
+- [Parcel Star Rider](https://play.google.com/store/apps/details?id=com.parcelstar.rider&hl=en_US)
+
+---
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AAShayon&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AAShayon&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+- 💬 Ask me about **State Management, UI design, and API integration**
+- 📫 How to reach me **shayon.asif@gmail.com**
+
+---
+
+### 🌐 **Connect with Me**
+
+<p align="left">
+    <a href="https://linkedin.com/in/aashayon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
+
+---
+
+<!-- Feel free to add more interactive badges, animations, or images to enhance the design further -->
