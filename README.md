@@ -42,7 +42,7 @@
 - **Flutter**: Proficient in building robust, scalable, and responsive cross-platform mobile applications using the Flutter framework.
 - **Dart**: Strong command over Dart programming language, the primary language for Flutter development.
 - **UI/UX Design**: Adept at creating visually appealing and intuitive user interfaces.
-- **State Management**: Expertise with Provider, Bloc, Redux for efficient app performance.
+- **State Management**: Expertise with Provider, Bloc, Getx for efficient app performance.
 - **RESTful APIs**: Skilled in integrating RESTful APIs for seamless app-server communication.
 - **Firebase**: Implementing authentication, real-time databases, and push notifications.
 - **Payment Integration**: Experienced with **Stripe, SSL Commerze SDKs**.
