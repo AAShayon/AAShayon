@@ -44,7 +44,9 @@
 - **UI/UX Design**: Adept at creating visually appealing and intuitive user interfaces.
 - **State Management**: Expertise with Provider, Bloc, Redux for efficient app performance.
 - **RESTful APIs**: Skilled in integrating RESTful APIs for seamless app-server communication.
-- **Firebase**: Hands-on experience with Firebase for authentication, real-time databases, and cloud functions.
+- **Firebase**: Implementing authentication, real-time databases, and push notifications.
+- **Payment Integration**: Experienced with **Stripe, SSL Commerze SDKs**.
+- **Google Maps & Location Services**: Implementing live tracking, geolocation, and map integration.
 - **Version Control**: Proficient in Git, ensuring collaborative development and codebase integrity.
 - **Testing**: Implementing unit and widget testing for reliability and stability.
 - **Platform Integration**: Integrating device-specific features, such as camera, location services, and push notifications.
@@ -60,7 +62,10 @@
 **Software Engineer**  
 *September 2024 - Present*  
 
-- Support legacy projects, ensuring they remain functional and addressing issues as they arise.
+- Integrated **payment gateways** (Stripe, SSL Commerze) for seamless transactions.  
+- Implemented **Firebase push notifications** for better user engagement.
+- Added **Google Maps API** for live tracking and location-based services.  
+- Support legacy projects, ensuring they remain functional and addressing issues as they arise. 
 - Independently handled assigned mobile application projects, following supervisor guidance to meet project requirements and maintain high code quality.
 - Upgrade applications to the latest SDKs for improved performance and compatibility.
 - Troubleshoot, debug, and resolve issues, ensuring smooth background service operation.
@@ -83,7 +88,14 @@
 - Engaged in hands-on projects, building cross-platform applications.
 - Participated in a structured training program, applying best practices in Flutter.
 
----
+
+#### **Bit Bitter**  
+**Android Developer (Part-time)**  
+*December 2017 - December 2018*  
+
+- Worked on **Android development** for mobile applications.  
+- Gained experience in **version control, Android framework, and debugging**. 
+
 
 ### 📂 **Projects**
 
