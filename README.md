@@ -96,6 +96,7 @@
 - Worked on **Android development** for mobile applications.  
 - Gained experience in **version control, Android framework, and debugging**. 
 
+---
 
 ### 📂 **Projects**
 
