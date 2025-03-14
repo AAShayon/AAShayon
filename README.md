@@ -33,6 +33,10 @@
     <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
     <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
     <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
+       <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+    <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+
 </p>
 
 ---
@@ -44,6 +48,10 @@
 - **UI/UX Design**: Adept at creating visually appealing and intuitive user interfaces.
 - **State Management**: Expertise with Provider, Bloc, Getx for efficient app performance.
 - **RESTful APIs**: Skilled in integrating RESTful APIs for seamless app-server communication.
+-  **Backend Development**:
+   - **Node.js**: Basic understanding of Node.js for building scalable server-side applications, mainly for supporting mobile app functionality.
+   - **MongoDB**: Knowledge of MongoDB for NoSQL database management, including CRUD operations and data modeling for app backend.
+   - **Express.js**: Familiar with using Express.js to build RESTful APIs and handle routing, with a focus on supporting mobile app integration.
 - **Firebase**: Implementing authentication, real-time databases, and push notifications.
 - **Payment Integration**: Experienced with **Stripe, SSL Commerze SDKs**.
 - **Google Maps & Location Services**: Implementing live tracking, geolocation, and map integration.
