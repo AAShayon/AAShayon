@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD ASIF AFROJ SHAYON</h1>
-<h3 align="center">Flutter Developer | Passionate about Creating Seamless Mobile Experiences</h3>
+<h3 align="center">Full-Stack Developer | Specializing in Flutter</h3>
+<p align="center">Passionate about crafting seamless user experiences across mobile and web platforms.</p>
 
 ---
 
