@@ -23,20 +23,22 @@
 ### 🔧 **Languages and Tools**
 
 <p align="left">
-    <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-    <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-    <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-    <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-    <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-    <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-    <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-    <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-    <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-       <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-    <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-
+<a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+<a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+<a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
+<a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+<a href="https://laravel.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/></a>
+<a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 </p>
 
 ---
@@ -48,19 +50,28 @@
 - **UI/UX Design**: Adept at creating visually appealing and intuitive user interfaces.
 - **State Management**: Expertise with Provider, Bloc, Getx for efficient app performance.
 - **RESTful APIs**: Skilled in integrating RESTful APIs for seamless app-server communication.
--  **Backend Development**:
-   - **Node.js**: Basic understanding of Node.js for building scalable server-side applications, mainly for supporting mobile app functionality.
-   - **MongoDB**: Knowledge of MongoDB for NoSQL database management, including CRUD operations and data modeling for app backend.
-   - **Express.js**: Familiar with using Express.js to build RESTful APIs and handle routing, with a focus on supporting mobile app integration.
-- **Firebase**: Implementing authentication, real-time databases, and push notifications.
-- **Payment Integration**: Experienced with **Stripe, SSL Commerze SDKs**.
-- **Google Maps & Location Services**: Implementing live tracking, geolocation, and map integration.
-- **Version Control**: Proficient in Git, ensuring collaborative development and codebase integrity.
-- **Testing**: Implementing unit and widget testing for reliability and stability.
-- **Platform Integration**: Integrating device-specific features, such as camera, location services, and push notifications.
-- **Legacy Project Support**: Maintaining and supporting legacy applications.
-- **SDK Upgrades**: Proficient in upgrading applications to the latest SDKs for enhanced performance.
-- **Problem Solving & Bug Fixing**: Strong troubleshooting skills for resolving issues in applications.
+- **Backend & Web Development**:
+    - **Next.js**: Sound knowledge of building modern, dynamic web applications using the Next.js framework.
+    - **Laravel & PHP**: Basic understanding of developing web applications and RESTful APIs using the Laravel framework and PHP.
+    - **Node.js**: Basic understanding of Node.js for building scalable server-side applications, mainly for supporting mobile app functionality.
+
+- **AI-Powered Development**: Leveraging AI tools and platforms to accelerate the development lifecycle, generate optimized code, and build intelligent, data-driven application features.
+
+- **Databases**:
+    - **MySQL**: Proficient in designing and managing relational databases.
+    - **MongoDB**: Knowledge of MongoDB for NoSQL database management, including CRUD operations and data modeling for app backend.
+
+- **Core Competencies**:
+    - **UI/UX Design**: Adept at creating visually appealing and intuitive user interfaces.
+    - **State Management**: Expertise with Provider, Bloc, and GetX for efficient app performance.
+    - **RESTful APIs**: Skilled in designing and integrating RESTful APIs for seamless client-server communication.
+    - **Firebase**: Implementing authentication, real-time databases, cloud functions, and push notifications.
+    - **Payment Integration**: Experienced with **Stripe, SSL Commerze SDKs**.
+    - **Google Maps & Location Services**: Implementing live tracking, geolocation, and map integration.
+    - **Version Control**: Proficient in Git for collaborative development and codebase integrity.
+    - **Testing**: Implementing unit and widget testing for reliability and stability.
+    - **Legacy Support & Upgrades**: Skilled in maintaining legacy applications and upgrading projects to the latest SDKs for enhanced performance and security.
+    - **Problem Solving & Bug Fixing**: Strong troubleshooting skills for efficiently identifying and resolving complex issues in applications.
 
 ---
 
