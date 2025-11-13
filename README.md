@@ -118,15 +118,7 @@
 
 ---
 
-### 📂 **Projects**
-
-- [Business Manager - Your Personal Assistant](https://github.com/AAShayon/Buisness-Manager)
-- [Scheduler](https://github.com/AAShayon/scheduler.git)
-- [Weather](https://github.com/AAShayon/weather.git)
-- [Authentication App](https://github.com/AAShayon/authentication_app)
-- [E-commerce App](https://github.com/AAShayon01/ecmrs_ui_cwt.git)
-
-#### **Live Projects**
+#### 📂 **Live Projects**
 - [Sanvees -EcommerceApp](https://play.google.com/store/apps/details?id=com.sanvees.sanvees)
 - [OrangeBD eDirectory](https://play.google.com/store/apps/details?id=apps.orangebd.orangebdedirectory&hl=en&pli=1)
 - [LGD Sheba](https://play.google.com/store/apps/details?id=apps.orangebd.lgdsheba&hl=en)
@@ -137,6 +129,15 @@
 - [BPPSHOP](https://play.google.com/store/apps/details?id=com.excelitai.bppshopapp&hl=en_US&pli=1)
 - [Parcel Star](https://play.google.com/store/apps/details?id=com.parcelstar.bd)
 - [Parcel Star Rider](https://play.google.com/store/apps/details?id=com.parcelstar.rider&hl=en_US)
+
+
+### 📂 **Demo Projects**
+
+- [Business Manager - Your Personal Assistant](https://github.com/AAShayon/Buisness-Manager)
+- [Scheduler](https://github.com/AAShayon/scheduler.git)
+- [Weather](https://github.com/AAShayon/weather.git)
+- [Authentication App](https://github.com/AAShayon/authentication_app)
+- [E-commerce App](https://github.com/AAShayon01/ecmrs_ui_cwt.git)
 
 ---
 
