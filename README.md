@@ -93,20 +93,13 @@
 
 #### **Excel It Ai, Dhaka, Bangladesh**  
 **Associate Flutter Developer**  
-*September 2023 - September 2024*
+*May 2023 - September 2024*
 
 - Independently handled assigned mobile application projects, following supervisor guidance to meet project requirements and maintain high code quality.
 - Conducted code reviews, ensuring best practices and code consistency.
 - Mentored junior developers, assisting in onboarding and knowledge sharing.
 - Developed key features, driving robust and scalable solutions.
 - Interacted with clients for requirement gathering and project updates.
-
-**Flutter Developer Trainee**  
-*May 2023 - September 2023*
-
-- Gained foundational experience in Flutter development, working under experienced mentors.
-- Engaged in hands-on projects, building cross-platform applications.
-- Participated in a structured training program, applying best practices in Flutter.
 
 
 #### **Bit Bitter**  
