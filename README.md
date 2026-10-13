@@ -134,10 +134,10 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AAShayon&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     <img src="https://github-readme-stats.vercel.app/api?username=AAShayon&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+</p> -->
 
 - 💬 Ask me about **State Management, UI design, and API integration**
 - 📫 How to reach me **shayon.asif@gmail.com**
