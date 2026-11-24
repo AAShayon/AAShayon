@@ -78,9 +78,24 @@
 
 ### 💼 **Experience**
 
-#### **Orange BD Ltd, Dhaka, Bangladesh**
-**Software Engineer**  
-*September 2024 - Present*  
+#### **Paragon Group, Dhaka, Bangladesh**
+**Senior Officer (Mobile Application Development)**  
+*October 2026 – Present*
+
+- Developing cross-platform mobile applications for Paragon Group's agro, dairy, and livestock operations.
+- Building **offline-first Flutter applications** to help field teams and farmers record data and manage operational activities.
+- Implementing reliable local data storage and synchronization mechanisms for environments with limited internet connectivity.
+- Developing mobile solutions that support business workflows and field-level operational requirements.
+- Collaborating with cross-functional teams to translate business requirements into practical mobile applications.
+- Focusing on application performance, maintainability, and user-friendly experiences.
+
+**Key Technologies:** Flutter, Dart, REST APIs, Offline-First Architecture, Local Database, Mobile Application Development.
+
+---
+
+#### **Orange Business Development Limited (OrangeBD), Dhaka, Bangladesh**
+**Software Engineer (Mobile Application Development)**  
+*September 2024 – September 2026*
 
 - Integrated **payment gateways** (Stripe, SSL Commerze) for seamless transactions.  
 - Implemented **Firebase push notifications** for better user engagement.
