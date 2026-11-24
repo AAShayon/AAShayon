@@ -130,7 +130,7 @@
 
 
 #### **Bit Bitter**  
-**Android Developer (Part-time)**  
+**Android Developer**  
 *December 2017 - December 2018*  
 
 - Worked on **Android development** for mobile applications.  
