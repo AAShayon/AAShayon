@@ -117,6 +117,18 @@
 - Interacted with clients for requirement gathering and project updates.
 
 
+#### **GRASSROOT CO-OPERATION**
+**IT Consultant (Science and Technology)**  
+*February 2020 – May 2023*
+
+- Provided technical guidance, troubleshooting, and IT infrastructure support to improve organizational technology operations.
+- Designed and delivered training sessions to enhance digital literacy and technical skills.
+- Assisted teams in adopting and effectively utilizing technology to achieve organizational goals.
+- Supported technical problem-solving and recommended practical IT solutions to improve operational efficiency.
+- Helped improve technology awareness and digital capabilities through hands-on guidance and knowledge sharing.
+
+
+
 #### **Bit Bitter**  
 **Android Developer (Part-time)**  
 *December 2017 - December 2018*  
